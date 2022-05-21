@@ -1,13 +1,12 @@
 <h1 align="center">Hi, I'm Selton Murakami</h1>
 <h3 align="center">A freelance Python Developer from Brazil</h3>
 
-- 🔭 I’m currently working on **an option trading system**
+- 🔭 I’m currently working on **a DeFi crypto bot**
 
 - 🌱 I’m currently learning **Machine Learning and FrontEnd Development**
 
 - 📫 How to reach me **seltonnm@gmail.com**
 
-- ⚡ Fun fact **I'm a Psych major!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
